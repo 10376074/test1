@@ -1,0 +1,20 @@
+p{
+
+    color: blue;
+}
+
+
+/*identidico id */
+p#parrafo_especial{
+
+    color: crimson;
+}
+
+p.verde
+{color: green;
+}
+.amarillo{
+
+    color: yellow;
+}
+
